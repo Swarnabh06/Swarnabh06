@@ -1,0 +1,63 @@
+name: Metrics
+
+on:
+  # Refresh once a day (00:30 IST), on demand, and whenever this repo changes
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ["metrics.svg"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Classic personal access token stored as a repo secret (no scopes needed for public data)
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Swarnabh06
+          filename: metrics.svg
+          committer_message: "chore: update metrics"
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_display: large
+          config_timezone: Asia/Kolkata
+          config_twemoji: yes
+
+          # 3D contributions calendar + streak
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Coding habits: commits per hour/day + recent language activity
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+
+          # Most used languages bar
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+
+          # "Mastered technologies" icon grid (comes from topics you star at github.com/topics)
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 20
+
+          # GitHub achievements badges
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
