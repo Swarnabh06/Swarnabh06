@@ -38,16 +38,13 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Coding habits: commits per hour/day + recent language activity
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-          plugin_habits_days: 14
-          plugin_habits_from: 200
+          # Note: the "habits" plugin and the "recently-used" languages section are left out on purpose.
+          # Both read commit lists from GitHub push events, which GitHub no longer includes, so they error out.
+          # The README shows a contribution activity graph instead.
 
           # Most used languages bar
           plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
 

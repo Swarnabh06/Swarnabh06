@@ -43,10 +43,14 @@
 | [**Hotel Management System**](https://github.com/Swarnabh06/Hotel-Mnagement-System) | Lets hotel owners and staff manage guest orders, rooms and facilities | HTML, CSS, JS |
 | [**Library Management System**](https://github.com/Swarnabh06/OOPS-PROJECT) | Object-oriented library management project | OOP |
 
-### 🔥 Contribution streak
+### 🔥 Contribution streak & activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Swarnabh06&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swarnabh06&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 </p>
 
 ---
