@@ -53,8 +53,4 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_limit: 20
 
-          # GitHub achievements badges
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
+          # "achievements" is also left out: it queries Projects (classic), which GitHub has retired.
