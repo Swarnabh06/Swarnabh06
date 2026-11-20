@@ -16,7 +16,7 @@
 ### 🚀 About me
 
 - 🎓 Student developer who loves building full-stack web apps end to end
-- 🔭 Currently building **SkillArena**: a coding practice, contests and careers platform for college students
+- 🔭 Currently building [**SkillArena**](https://github.com/Swarnabh06/SKILLARENA): a coding practice, contests and careers platform for college students
 - 🌱 Learning more about system design, testing and shipping production-ready apps
 - ⚡ I enjoy turning real problems (study habits, local shops, disaster alerts) into working software
 
@@ -36,7 +36,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **SkillArena** <sub>(private, in progress)</sub> | Coding practice, daily challenges, contests and leaderboards plus internships and jobs, all in one student platform | Next.js, React, MongoDB, Better Auth, Tailwind |
+| [**SkillArena**](https://github.com/Swarnabh06/SKILLARENA) <sub>(in progress)</sub> | Coding practice, daily challenges, contests and leaderboards plus internships and jobs, all in one student platform | Next.js, React, MongoDB, Better Auth, Tailwind |
 | [**Agarwal Online**](https://github.com/Swarnabh06/AgarwalOnline) · [live](https://agarwal-online.vercel.app) | Online store for a neighbourhood shop: bilingual catalog, home delivery, Razorpay, staff order and stock management | TypeScript |
 | [**Landslide Early Warning (NER India)**](https://github.com/Swarnabh06/Ai-based-early-warning-and-landslide-monitoring-system-in-NER-India) | AI-based monitoring of terrain, soil and slope activity to predict landslides and support early evacuation | AI / Web |
 | [**StudySlay**](https://github.com/Swarnabh06/StudySlay) | Study companion with music, a Pomodoro timer and a smart exam scheduler | JavaScript |
