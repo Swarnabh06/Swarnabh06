@@ -118,6 +118,11 @@ More projects: [Hotel Management System](https://github.com/Swarnabh06/Hotel-Mna
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#56](https://github.com/Shriram-Traders/AgarwalOnline/pull/56) in [Shriram-Traders/AgarwalOnline](https://github.com/Shriram-Traders/AgarwalOnline)
+2. 💪 Opened PR [#56](https://github.com/Shriram-Traders/AgarwalOnline/pull/56) in [Shriram-Traders/AgarwalOnline](https://github.com/Shriram-Traders/AgarwalOnline)
+3. 🎉 Merged PR [#55](https://github.com/Shriram-Traders/AgarwalOnline/pull/55) in [Shriram-Traders/AgarwalOnline](https://github.com/Shriram-Traders/AgarwalOnline)
+4. 💪 Opened PR [#55](https://github.com/Shriram-Traders/AgarwalOnline/pull/55) in [Shriram-Traders/AgarwalOnline](https://github.com/Shriram-Traders/AgarwalOnline)
+5. 🎉 Merged PR [#54](https://github.com/Shriram-Traders/AgarwalOnline/pull/54) in [Shriram-Traders/AgarwalOnline](https://github.com/Shriram-Traders/AgarwalOnline)
 <!--END_SECTION:activity-->
 
 ---
