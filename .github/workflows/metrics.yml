@@ -1,13 +1,13 @@
 name: Metrics
 
 on:
-  # Refresh once a day (00:30 IST), on demand, and whenever this repo changes
+  # Refresh once a day (00:30 IST), on demand, and when this workflow file changes
   schedule:
     - cron: "0 19 * * *"
   workflow_dispatch:
   push:
     branches: [main]
-    paths-ignore: ["metrics.svg"]
+    paths: [".github/workflows/metrics.yml"]
 
 permissions:
   contents: write
