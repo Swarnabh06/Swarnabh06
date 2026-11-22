@@ -1,9 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Swarnabh&fontSize=60&desc=Full-stack%20developer%20%C2%B7%20Building%20SkillArena&descAlignY=65&animation=fadeIn" alt="Swarnabh" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Swarnabha%20Bhunia&fontSize=56&desc=AI%20%26%20Data%20Science%20student%20%C2%B7%20Full-stack%20developer&descAlignY=65&animation=fadeIn" alt="Swarnabha Bhunia" width="100%" />
 
 <p align="center">
-  <a href="https://github.com/Swarnabh06">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=3FB950&multiline=true&width=520&height=150&lines=%24+whoami;%3E+swarnabh+%C2%B7+full-stack+developer;%24+cat+stack.txt;%3E+Next.js+%C2%B7+React+%C2%B7+Node+%C2%B7+MongoDB" alt="$ whoami: swarnabh, full-stack developer" />
+  <a href="https://swarnabhportfolio.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=600&color=3FB950&multiline=true&width=560&height=150&lines=%24+whoami;%3E+swarnabha+%C2%B7+B.Tech+AI%26DS+%C2%B7+full-stack+dev;%24+cat+stack.txt;%3E+Next.js+%C2%B7+React+%C2%B7+Node+%C2%B7+Python+%C2%B7+MongoDB" alt="$ whoami: Swarnabha, B.Tech AI and DS student, full-stack developer" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swarnabha-bhunia-ut-9b7412394"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:swarnabh17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://swarnabhportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Open_to-Internships-3FB950?style=for-the-badge" alt="Open to internships" />
 </p>
 
 <p align="center">
@@ -19,7 +26,10 @@
   <tr>
     <td width="55%" valign="middle">
 
-- 🎓 Student developer who loves building full-stack web apps end to end
+- 👋 I'm **Swarnabha Bhunia** (he/him), from Pune, Maharashtra
+- 🎓 B.Tech in **Artificial Intelligence & Data Science** at Ajeenkya D Y Patil University (2024–2028)
+- 🤖 Machine learning enthusiast who loves building full-stack web apps end to end
+- 💼 Open to internships in web development, ML and data analytics
 - 🔭 Currently building [**SkillArena**](https://github.com/Swarnabh06/SKILLARENA): a coding practice, contests and careers platform for college students
 - 🌱 Learning more about system design, testing and shipping production-ready apps
 - ⚡ I enjoy turning real problems (study habits, local shops, disaster alerts) into working software
@@ -34,7 +44,7 @@
 ### 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind,mongodb,supabase,cpp,java,python,git,github,vercel,vscode&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind,mongodb,mysql,supabase,cpp,java,python,git,github,vercel,vscode&perline=9" alt="Tech stack" />
 </p>
 
 ---
@@ -130,22 +140,34 @@ More projects: [Hotel Management System](https://github.com/Swarnabh06/Hotel-Mna
 <details>
   <summary><b>🎓 Education</b></summary>
   <br />
-  <!-- TODO: add your college, degree and graduation year -->
-  Student developer building full-stack projects.
+
+
+**B.Tech, Artificial Intelligence & Data Science**: Ajeenkya D Y Patil University, Pune (2024–2028, 2nd year)
+
+Coursework: Operating Systems · DBMS · Data Structures & Algorithms · Python · Web Technologies · OOP with C++
+
 </details>
 
 <details>
   <summary><b>🏆 Achievements</b></summary>
   <br />
-  <!-- TODO: add hackathons, contest ranks and certificates -->
-  Built and shipped SkillArena: 39 problems, contests, assessments and a job board on one platform.
+
+
+- 🛠️ Built **SkillArena**: 39 coding problems, contests, assessments and a job board on one platform
+- 🎪 Participated in **INGENIUM** at #Tech2026 Tech Fest, Ajeenkya D Y Patil University (Mar–Apr 2026)
+- 📜 Completed **OS Fundamentals** on Scaler Topics: 61 videos, 7 modules and 6 challenges (Apr 2026)
+
 </details>
 
 <details>
   <summary><b>📫 Reach me</b></summary>
   <br />
-  <!-- TODO: add LinkedIn / email / portfolio badges here -->
-  Open an issue or say hi on any of my repos: <a href="https://github.com/Swarnabh06">github.com/Swarnabh06</a>
+
+
+- 💼 LinkedIn: [swarnabha-bhunia](https://www.linkedin.com/in/swarnabha-bhunia-ut-9b7412394)
+- ✉️ Email: [swarnabh17@gmail.com](mailto:swarnabh17@gmail.com)
+- 🌐 Portfolio: [swarnabhportfolio.netlify.app](https://swarnabhportfolio.netlify.app/)
+
 </details>
 
 <p align="center"><i>Thanks for stopping by! ⭐ a repo if you like it.</i></p>
