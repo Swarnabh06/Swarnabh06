@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Swarnabha%20Bhunia&fontSize=56&desc=AI%20%26%20Data%20Science%20student%20%C2%B7%20Full-stack%20developer&descAlignY=65&animation=fadeIn" alt="Swarnabha Bhunia" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Swarnabha%20Bhunia&fontSize=56&desc=AI%20and%20Data%20Science%20student%20%C2%B7%20Full-stack%20developer&descAlignY=65&animation=fadeIn" alt="Swarnabha Bhunia" width="100%" />
 
 <p align="center">
   <a href="https://swarnabhportfolio.netlify.app/">
